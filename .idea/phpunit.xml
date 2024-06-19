@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PHPUnit">
+    <option name="directories">
+      <list>
+        <option value="$PROJECT_DIR$/main-project-php/tests" />
+        <option value="$PROJECT_DIR$/main-project-faithfulnesss/www/coin-rate-api/tests" />
+        <option value="$PROJECT_DIR$/main-project-trndo/tests" />
+      </list>
+    </option>
+  </component>
+</project>
